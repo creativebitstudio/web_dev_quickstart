@@ -1,0 +1,52 @@
+ html {
+     font-family: 'Hind', sans-serif;
+ }
+ 
+ #site-index {
+     background: -webkit-linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(images/smartphone-1.jpg);
+     background-position: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+     padding-bottom: 140px;
+     text-align: right;
+     color: #000;
+ }
+ 
+ #site-index h1 {
+     margin-top: 120px;
+ }
+
+#site-index hr{
+width: 40px;
+margin-left: 74em;    
+height: 3px;
+background-color: #ea9b23;  
+}
+ 
+ #site-index span {
+     color: #fff;
+ }
+ 
+ #site-index .row {
+     margin-top: 25px;
+     float: right;
+ }
+ 
+ #site-index p {
+     margin-top: 120px;
+ }
+ 
+ #site-index .col-md-4 {
+     width: 25%;
+ }
+ 
+ #site-footer {
+     /*     background: #e0e0e5;*/
+     padding: 3px 0;
+     /*     color: #fff;*/
+     text-align: center;
+ }
+ 
+ #site-footer h5 {
+     letter-spacing: 1px;
+ }
