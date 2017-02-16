@@ -1,4 +1,4 @@
-<!DOCTYOE html>
+<!DOCTYPE html>
 <html lang="en-US">
 
 <head>
@@ -14,6 +14,10 @@
 </head>
 
 <body>
+    <!--        div container tag-->
+    <div id="site-index">
+        <div class="container">
+    
     <!--    a simple navigation bar, use bootstrap to customize. -->
 
     <ul class="nav nav-pills">
@@ -23,10 +27,8 @@
         <li role="presentation"><a href="#">Link</a></li>
     </ul>
 
-    <!--        header tag-->
-    <div id="site-index">
-        <div class="container">
-
+    <!-- The main tag specifies the main content of a document. The content inside the <main> element should be unique to the document. It should not contain any content that is repeated across documents such as sidebars, navigation links, copyright information, site logos, and search forms. -->      
+   <main>
             <!--        head tags-->
             <h1>Welcome &#33;</h1>
             <hr>
@@ -44,14 +46,28 @@
                 <div class="col-md-4">
                     <img src="images/jQurery.gif" height="50" width="50" alt="HTML5 Logo">
                 </div>
+                
                 <!--            end of row-->
             </div>
             
             <p>To get started clone the repository from github, <a href="https://github.com/creativebitstudio/web_dev_quickstart.git">find it here, </a><br> and follow the README file to get working on your website.</p>
+            
+       
+        <!--end of main tag-->
+            </main> 
             <!--        end of container-->
-        </div>
-        <!--end of header tag-->
+            </div>
+        <!--end of div container tag-->
     </div>
+    
+    <!--The article tag specifies independent, self-contained content.-->
+    <article>
+     </article>
+    
+    <!--The <section> tag defines sections in a document, such as chapters, headers, footers, or any other sections of the document.-->
+    <section>
+    </section>
+  
 
     <!--    footer tag-->
     <footer id="site-footer">
