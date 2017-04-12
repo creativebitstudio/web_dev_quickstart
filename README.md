@@ -15,9 +15,16 @@ Remember, learning to code and improving on your coding skills is based on pract
 For futher information, visit the link below for futher use of other tags, elements, tutorials, references and more relating to HTML, CSS, Javascript, PHP, SQL, Bootstrap and jQuery.
 www.w3schools.com
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+### Authors
+
+* Developed for CreativeBitStudio by Danny Mack - Full Stack Developer.
+* Developer Feedback: creativebitstudio@gmail.com.
+
 ### Contact
 
-Developed for CreativeBitStudio by Danny Mack - Full Stack Developer.
-Developer Feedback: creativebitstudio@gmail.com.
-To contact or hire us: info@creativebitstudio.com.
-Website: www.creativebitstudio.com
+* To contact or hire us: info@creativebitstudio.com.
+* Website: www.creativebitstudio.com
