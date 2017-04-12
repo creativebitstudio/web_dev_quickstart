@@ -10,11 +10,12 @@ How to use it
 Remember, learning to code and improving on your coding skills is based on practice. The more you code, the more you learn about what the code does and what it means, the quicker you'll become a pro.
 
 
-# Note
+## Note
 
 For futher information, visit the link below for futher use of other tags, elements, tutorials, references and more relating to HTML, CSS, Javascript, PHP, SQL, Bootstrap and jQuery.
 www.w3schools.com
 
+### Contact
 
 Developed for CreativeBitStudio by Danny Mack - Full Stack Developer.
 Developer Feedback: creativebitstudio@gmail.com.
