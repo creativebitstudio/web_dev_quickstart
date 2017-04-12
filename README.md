@@ -1,6 +1,6 @@
 # webdev_quickstart
 
-How to use it
+#### How to use it
 
 1. Clone (git bash recommended) or download the zip file onto your computer.
 2. Open folder in preferred text editor.
@@ -8,7 +8,6 @@ How to use it
 4. Enjoy! 
 
 Remember, learning to code and improving on your coding skills is based on practice. The more you code, the more you learn about what the code does and what it means, the quicker you'll become a pro.
-
 
 ## Note
 
@@ -23,7 +22,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Developed for CreativeBitStudio by Danny Mack - Full Stack Developer.
 * Developer Feedback or for Hire: creativebitstudio@gmail.com.
-* 
 
 ### Contact
 
