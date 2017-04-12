@@ -22,7 +22,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ### Authors
 
 * Developed for CreativeBitStudio by Danny Mack - Full Stack Developer.
-* Developer Feedback: creativebitstudio@gmail.com.
+* Developer Feedback or for Hire: creativebitstudio@gmail.com.
+* 
 
 ### Contact
 
